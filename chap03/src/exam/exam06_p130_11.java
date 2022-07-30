@@ -16,7 +16,7 @@ public class exam06_p130_11 {
 		int password = Integer.parseInt(strPassword);
 		
 		if(name.equals("java")) {
-			if(password == 12345) {
+			if(password == 12345) {                                  
 				System.out.println("로그인 성공");
 			} else {
 				System.out.println("로그인 실패: 패스워드가 틀림");
