@@ -2,7 +2,7 @@ package step03;
 
 import java.util.Scanner;
 
-public class sumAB {
+public class sumAB_10950 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
