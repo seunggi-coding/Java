@@ -1,10 +1,11 @@
-package Practice;
+package step03;
 
 import java.util.Scanner;
 
-public class Main {
+public class plusCycle_1110 {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
 		int count = 0;
@@ -24,6 +25,6 @@ public class Main {
 			}
 		}
 		scan.close();
-		
 	}
+
 }
